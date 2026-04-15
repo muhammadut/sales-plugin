@@ -1,0 +1,6 @@
+{
+  "name": "sales-plugin",
+  "version": "0.2.0",
+  "description": "B2B outbound sales plugin: ICP, list-sourcing, cold-call scripts, cadences, CRM setup, role-play, and Gong-style coaching.",
+  "license": "MIT"
+}

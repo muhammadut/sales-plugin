@@ -14,7 +14,7 @@
         "repo": "muhammadut/sales-plugin"
       },
       "description": "6-agent B2B outbound sales plugin. Interviews you, refreshes the cold-outbound research landscape, builds your ICP and prospect-list strategy, writes scripts and multi-touch cadences with cited frameworks, sets up your CRM, runs role-play practice with a Claude-played prospect, and ingests call recordings via Deepgram/Azure Speech for Gong-style coaching analysis. State lives in .sales/ in the target project. Composes with brand (reads voice.md), marketing (provides closed/lost feedback), and greenfield (reads data-model.md).",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "license": "MIT",
       "keywords": [
         "sales",
