@@ -1,0 +1,33 @@
+{
+  "name": "sales-plugin",
+  "owner": {
+    "name": "muhammadut"
+  },
+  "metadata": {
+    "description": "B2B outbound sales plugin: 6 specialist agents produce a research-grounded cold-outbound playbook with a recording-driven coaching loop and role-play mode."
+  },
+  "plugins": [
+    {
+      "name": "sales",
+      "source": {
+        "source": "github",
+        "repo": "muhammadut/sales-plugin"
+      },
+      "description": "6-agent B2B outbound sales plugin. Interviews you, refreshes the cold-outbound research landscape, builds your ICP and prospect-list strategy, writes scripts and multi-touch cadences with cited frameworks, sets up your CRM, runs role-play practice with a Claude-played prospect, and ingests call recordings via Deepgram/Azure Speech for Gong-style coaching analysis. State lives in .sales/ in the target project. Composes with brand (reads voice.md), marketing (provides closed/lost feedback), and greenfield (reads data-model.md).",
+      "version": "0.1.0",
+      "license": "MIT",
+      "keywords": [
+        "sales",
+        "outbound",
+        "cold-calling",
+        "cold-email",
+        "crm",
+        "multi-agent",
+        "playbook",
+        "role-play",
+        "coaching",
+        "canadian"
+      ]
+    }
+  ]
+}

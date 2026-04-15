@@ -1,0 +1,12 @@
+.DS_Store
+*.swp
+*.swo
+*~
+node_modules/
+.env
+.env.*
+*.log
+# Note: .sales/ in target projects should be SELECTIVELY gitignored:
+# only .sales/lists/raw/, .sales/recordings/**/*.{mp3,wav,m4a},
+# .sales/config/secrets.local.md. Markdown artefacts SHOULD be committed.
+# This plugin repo does not contain a .sales/ directory itself.

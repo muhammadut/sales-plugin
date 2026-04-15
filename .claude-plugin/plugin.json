@@ -1,0 +1,20 @@
+{
+  "name": "sales",
+  "version": "0.1.0",
+  "description": "B2B outbound sales plugin: 6 specialist agents produce a research-grounded cold-outbound playbook — ICP, prospect lists, scripts, multi-touch cadences, CRM setup, and a recording-driven coaching loop. Includes a role-play mode where Claude plays a skeptical prospect and scores adherence to a chosen framework. Built for solo founders and small teams running B2B outbound at volume. Output lives in .sales/ in the target project and feeds back into marketing attribution.",
+  "author": {
+    "name": "muhammadut"
+  },
+  "license": "MIT",
+  "keywords": [
+    "sales",
+    "outbound",
+    "cold-calling",
+    "cold-email",
+    "crm",
+    "multi-agent",
+    "playbook",
+    "small-business",
+    "canadian"
+  ]
+}
